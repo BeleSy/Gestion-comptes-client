@@ -1,0 +1,11 @@
+4312000001120001;Bele;100;D'Ahuntsic;;Montreal;Quebec;H1H5Y7;Canada;5142317864;;5141110087;;4382322276;5149982045;bele@ahuntsic.qc.ca;909818727;m
+;College Ahuntsic;AEC;2010-01-01
+
+4312000002120002;Alex;1;Du College;1;1;Montreal;Quebec;H2H1Y7;Canada;5143457864;1;5142290087;0;4382398876;5149982034;alex@ahuntsic.qc.ca;909818727;m
+;College Ahuntsic;AEC;2010-01-01
+
+4312000003120003;Kerlyne;200;Du Cheval;;Montreal;Quebec;H6H1Y2;Canada;5143457864;;5142290087;;;;;121818727;f
+
+4312000004120004;Antonio;333;Du Bonhomme;100;100;Montreal;Quebec;H2x1U8;Canada;5143457864;;;;;;antonio@ahuntsic.qc.ca;323818727;m
+
+4312000005160001;College Ahuntsic Inc.;300;Du Plateau;;Montreal;Quebec;H3E1Y5;Canada;;;;;;;;939454727;www.collegeahuntsic.qc.ca
